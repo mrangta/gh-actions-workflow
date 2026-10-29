@@ -15,8 +15,4 @@ jobs:
       - name: Succeed step
         run: echo "I will Succeed"
       - name: Say goodbye
-        run: echo "GoodBye !
-
-
-
-  
+        run: echo "GoodBye !"  
